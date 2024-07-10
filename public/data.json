@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/RPqD2MK/Health.png",
+        "category": "Health",
+        "title": "Clean water for children",
+        "text_c": "#0052FF",
+        "category_bg": "#0052FF21",
+        "card_bg": "#0052FF1A",
+        "description": "Your contributions to the Health category will help improve the well-being of individuals and communities. Donations will support medical facilities, provide essential healthcare services, and ensure access to life-saving treatments. By contributing to health initiatives, you play a crucial role in creating healthier and happier lives for those in need.",
+        "price": 50
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/TYH0zZF/Education.png",
+        "title": "Education",
+        "category": "Good education",
+        "text_c": "#FF444A",
+        "category_bg": "#FF442A33",
+        "card_bg": "#FF442A1A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 40
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/Bgrx3wM/Clothing.png",
+        "category": "Clothing",
+        "title": "Used Clothing Drive",
+        "text_c": "#79C23F",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F1A",
+        "description": "Empower individuals with the gift of warmth and dignity. Donations to the Clothing category support efforts to provide essential clothing items to those in need. Your contributions enable us to distribute clothing to vulnerable populations, protecting them from the elements and promoting a sense of self-worth. Join us in making a positive impact on lives through the simple act of donating clothing.",
+        "price": 60
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/5FmZ8SP/Food.png",
+        "category": "Food",
+        "title": "Better Food for Everyone",
+        "text_c": "#F87147",
+        "category_bg": "#F8714733",
+        "card_bg": "#F871471A",
+        "description": "Make a difference in the lives of people facing food insecurity. Your donations to the Food category will support initiatives that provide nutritious meals to individuals and families in need. By contributing, you help combat hunger and ensure that everyone has access to the basic necessity of food. Together, we can create a world where no one goes to bed hungry.",
+        "price": 50
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/5FmZ8SP/Food.png",
+        "category": "Food",
+        "title": "Better Food for Everyone",
+        "text_c": "#F87147",
+        "category_bg": "#F8714733",
+        "card_bg": "#F871471A",
+        "description": "Make a difference in the lives of people facing food insecurity. Your donations to the Food category will support initiatives that provide nutritious meals to individuals and families in need. By contributing, you help combat hunger and ensure that everyone has access to the basic necessity of food. Together, we can create a world where no one goes to bed hungry.",
+        "price": 70
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/Bgrx3wM/Clothing.png",
+        "category": "Clothing",
+        "title": "Used Clothing Drive",
+        "text_c": "#79C23F",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F1A",
+        "description": "Empower individuals with the gift of warmth and dignity. Donations to the Clothing category support efforts to provide essential clothing items to those in need. Your contributions enable us to distribute clothing to vulnerable populations, protecting them from the elements and promoting a sense of self-worth. Join us in making a positive impact on lives through the simple act of donating clothing.",
+        "price": 40
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/TYH0zZF/Education.png",
+        "category": "Education",
+        "title": "Good education",
+        "text_c": "#FF444A",
+        "category_bg": "#FF442A33",
+        "card_bg": "#FF442A1A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 30
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/RPqD2MK/Health.png",
+        "category": "Health",
+        "title": "Clean water for children",
+        "text_c": "#0052FF",
+        "category_bg": "#0052FF21",
+        "card_bg": "#0052FF1A",
+        "description": "Your contributions to the Health category will help improve the well-being of individuals and communities. Donations will support medical facilities, provide essential healthcare services, and ensure access to life-saving treatments. By contributing to health initiatives, you play a crucial role in creating healthier and happier lives for those in need.",
+        "price": 60
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/RPqD2MK/Health.png",
+        "category": "Health",
+        "title": "Clean water for children",
+        "text_c": "#0052FF",
+        "category_bg": "#0052FF21",
+        "card_bg": "#0052FF1A",
+        "description": "Your contributions to the Health category will help improve the well-being of individuals and communities. Donations will support medical facilities, provide essential healthcare services, and ensure access to life-saving treatments. By contributing to health initiatives, you play a crucial role in creating healthier and happier lives for those in need.",
+        "price": 70
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/TYH0zZF/Education.png",
+        "category": "Education",
+        "title": "Good education",
+        "text_c": "#FF444A",
+        "category_bg": "#FF442A33",
+        "card_bg": "#FF442A1A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 80
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/Bgrx3wM/Clothing.png",
+        "category": "Clothing",
+        "title": "Used Clothing Drive",
+        "text_c": "#79C23F",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F1A",
+        "description": "Empower individuals with the gift of warmth and dignity. Donations to the Clothing category support efforts to provide essential clothing items to those in need. Your contributions enable us to distribute clothing to vulnerable populations, protecting them from the elements and promoting a sense of self-worth. Join us in making a positive impact on lives through the simple act of donating clothing.",
+        "price": 90
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/5FmZ8SP/Food.png",
+        "category": "Food",
+        "title": "Better Food for Everyone",
+        "text_c": "#F87147",
+        "category_bg": "#F8714733",
+        "card_bg": "#F871471A",
+        "description": "Make a difference in the lives of people facing food insecurity. Your donations to the Food category will support initiatives that provide nutritious meals to individuals and families in need. By contributing, you help combat hunger and ensure that everyone has access to the basic necessity of food. Together, we can create a world where no one goes to bed hungry.",
+        "price": 100
+    }
+]
